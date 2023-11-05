@@ -1,6 +1,30 @@
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
+</p>
+
+<div style="display: flex;">
 <a href="https://github.com/WailanTirajoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WailanTirajoh&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WailanTirajoh&count_private=true&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/WailanTirajoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WailanTirajoh&layout=compact&theme=radical&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WailanTirajoh&layout=compact&theme=light&langs_count=8" />
 </a>
+</div>
+
+<hr/>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wailantirajoh&theme=light&custom_title=Wailan%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Wailan Tirajoh
+located_in: Jakarta, Indonesia
+from: Papua (Indonesia)
+job: Software Engineer
+education: ["Bachelor of Computer Science"]
+company: Kawan Lama Group
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
