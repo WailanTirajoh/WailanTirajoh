@@ -15,12 +15,12 @@
 <hr/>
 
 ```yaml
-name: Wailan Tirajoh
-located_in: Jakarta, Indonesia
-from: Papua (Indonesia)
-job: Software Engineer
+name: "Wailan Tirajoh"
+located_in: "Jakarta, Indonesia"
+from: "Papua, Indonesia"
+job: "Software Engineer"
 education: ["Bachelor of Computer Science"]
-company: Kawan Lama Group
+company: "Kawan Lama Group"
 ```
 
 <p align="center">
