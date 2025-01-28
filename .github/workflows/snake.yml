@@ -1,0 +1,47 @@
+name: generate animation
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *"
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # Checkout the main branch
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      # Generate the SVG files into the public folder
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            public/github-contribution-grid-snake.svg
+            public/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Commit and push only the generated SVG files to the main branch
+      - name: Commit and push SVG files to main branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/github-contribution-grid-snake.svg
+          git add public/github-contribution-grid-snake-dark.svg
+          git commit -m "chore(snake): update github contribution snake"
+          git push origin main
