@@ -22,17 +22,7 @@
   "education": [
     "Bachelor of Computer Science"
   ],
-  "company": "Kawan Lama Group",
-  "games": [
-    {
-      "name": "Dota 2",
-      "rating": "6800 (Solo MMR ~ top #300 sea)"
-    },
-    {
-      "name": "CS2",
-      "rating": "14k ~ Boost(ed) with friends"
-    }
-  ]
+  "company": "Kawan Lama Group"
 }
 ```
 
