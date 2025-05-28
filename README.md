@@ -1,15 +1,10 @@
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
+  <picture>
+    <source width="100%"/ media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=onedark&column=-1" />
+    <source width="100%"/ media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
+    <img width="100%"/ src="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
+  </picture>
 </p>
-
-<div style="display: flex;">
-<a href="https://github.com/WailanTirajoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WailanTirajoh&count_private=true&show_icons=true&theme=light" />
-</a>
-<a href="https://github.com/WailanTirajoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WailanTirajoh&layout=compact&theme=light&langs_count=8" />
-</a>
-</div>
 
 <hr/>
 
@@ -26,12 +21,14 @@
 }
 ```
 
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
+  <source width="100%"/ media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake-dark.svg">
+  <source width="100%"/ media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
+  <img width="100%"/ alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
 </picture>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
