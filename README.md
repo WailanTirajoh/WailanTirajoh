@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=onedark&column=-1" />
-    <source width="100%" media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
+    <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=onedark&column=-1&no-frame=true" />
+    <source width="100%" media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1&no-frame=true" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1&no-frame=true" />
   </picture>
 </p>
 
