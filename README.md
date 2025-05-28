@@ -10,15 +10,22 @@
 
 ```json
 {
-  "name": "Wailan Tirajoh",
-  "current_location": "Jakarta, Indonesia",
-  "from": "Papua, Indonesia",
-  "job": "Software Engineer",
+  "full_name": "Wailan Tirajoh",
+  "location": {
+    "current": "Jakarta, Indonesia",
+    "hometown": "Papua, Indonesia"
+  },
   "education": [
-    "Bachelor of Computer Science"
+    {
+      "degree": "Bachelor of Computer Science",
+      "field": "Computer Science"
+    }
   ],
-  "company": "Kawan Lama Group"
+  "employment": {
+    "company": "Kawan Lama Group"
+  }
 }
+
 ```
 
 <p align="center">
