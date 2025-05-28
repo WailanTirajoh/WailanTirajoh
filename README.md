@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source width="100%"/ media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=onedark&column=-1" />
-    <source width="100%"/ media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
-    <img width="100%"/ src="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
+    <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=onedark&column=-1" />
+    <source width="100%" media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=light&column=-1" />
   </picture>
 </p>
 
@@ -23,9 +23,9 @@
 
 <p align="center">
 <picture>
-  <source width="100%"/ media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake-dark.svg">
-  <source width="100%"/ media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
-  <img width="100%"/ alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
+  <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake-dark.svg">
+  <source width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
+  <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WailanTirajoh/WailanTirajoh/main/public/github-contribution-grid-snake.svg">
 </picture>
 </p>
 
