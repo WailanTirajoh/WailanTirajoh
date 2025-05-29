@@ -20,10 +20,7 @@
       "degree": "Bachelor of Computer Science",
       "field": "Computer Science"
     }
-  ],
-  "employment": {
-    "company": "Kawan Lama Group"
-  }
+  ]
 }
 
 ```
