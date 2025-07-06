@@ -1,3 +1,13 @@
+```md
+ ______________________________________________________________________________________________________
+< What one programmer can do in one month, two programmers can do in two months. - Frederick P. Brooks >
+ ------------------------------------------------------------------------------------------------------
+  \
+   \   (\__/)
+       (•ㅅ•)
+       / 　 づ
+```
+
 <p align="center">
   <picture>
     <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=onedark&column=-1&no-frame=true" />
