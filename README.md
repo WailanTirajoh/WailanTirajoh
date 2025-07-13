@@ -1,6 +1,6 @@
 ```md
  ______________________________________________________________________________________________________
-< What one programmer can do in one month, two programmers can do in two months. - Frederick P. Brooks >
+< The more you know, the more you realize you don't know. - Aristoteles >
  ------------------------------------------------------------------------------------------------------
   \
    \   (\__/)
