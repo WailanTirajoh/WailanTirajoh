@@ -1,13 +1,3 @@
-```md
- ______________________________________________________________________________________________________
-< Aman saja mo, ngapain mo repot ♫ >
- ------------------------------------------------------------------------------------------------------
-  \
-   \   (\__/)
-       (•ㅅ•)
-       / 　 づ
-```
-
 <p align="center">
   <picture>
     <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wailantirajoh&theme=onedark&column=-1&no-frame=true" />
