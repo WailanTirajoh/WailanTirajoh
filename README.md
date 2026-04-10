@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Senior Software Engineer based in **Jakarta, Indonesia**, with 6+ years of experience building production-grade systems across **e-commerce, POS, and enterprise platforms**. I care deeply about engineering quality, team growth, and building workflows that make developers ship faster with fewer bugs.
+I'm a Senior Software Engineer based in **Jakarta, Indonesia**, with 6 years of experience building production-grade systems across **e-commerce, POS, and enterprise platforms**. I care deeply about engineering quality, team growth, and building workflows that make developers ship faster with fewer bugs.
 
 Currently transitioning into **Engineering Manager / Technical Lead** roles — focused on helping established companies build strong technical foundations as they digitalize their operations.
 
@@ -25,11 +25,10 @@ Currently transitioning into **Engineering Manager / Technical Lead** roles — 
 - ⚡ Cut team development time by **30%** via a Centralized Multi-Frontend Backoffice
 - 🧪 Standardized **automated E2E testing with Playwright** — significantly reducing production bugs
 - 👥 Mentored and guided **10+ engineers**
-- 🤖 Collaborated with **Google AI Indonesia (Vertex AI)** on a Creating Generative AI Test Platform
 
 ---
 
-## Open Source Projects
+## Featured Projects
 
 ### 🏨 [Laravel Hotel](https://github.com/WailanTirajoh/Laravel-Hotel)
 > Full-stack hotel management system built with Laravel 12
@@ -48,6 +47,18 @@ A production-ready open source application featuring real-time notifications via
 A clean, ready-to-use admin template for teams who want to move fast without sacrificing quality.
 
 `Nuxt 3` `Vue 3` `TypeScript` `Tailwind CSS`
+
+---
+
+### 🗄️ [DBViewer](https://github.com/WailanTirajoh/dbviewer)
+> Rails engine to explore databases, generate ERDs, and monitor SQL queries
+
+A developer tool that mounts directly into any Rails app, giving you a clean UI to browse tables, run safe SQL queries, view schema relationships, and analyze query performance — with built-in PII masking and access control.
+
+![Stars](https://img.shields.io/github/stars/WailanTirajoh/dbviewer?style=flat-square&color=2563eb)
+🔗 [Live Demo](https://dbviewer-demo.wailantirajoh.tech/)
+
+`Ruby on Rails` `Rails Engine` `ERD` `SQL` `Developer Tools`
 
 ---
 
@@ -78,6 +89,12 @@ If you're building something meaningful and need someone who can lead both the e
 
 📧 [wailantirajoh@gmail.com](mailto:wailantirajoh@gmail.com)
 💼 [linkedin.com/in/wailantirajoh](https://www.linkedin.com/in/wailantirajoh/)
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Snake](https://github.com/WailanTirajoh/WailanTirajoh/blob/main/public/github-contribution-grid-snake.svg)
 
 ---
 
