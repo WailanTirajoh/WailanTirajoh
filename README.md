@@ -20,7 +20,7 @@ I'm a Senior Software Engineer based in **Jakarta, Indonesia**, with 6 years of 
 
 Currently transitioning into **Engineering Manager / Technical Lead** roles — focused on helping established companies build strong technical foundations as they digitalize their operations.
 
-- 🏪 Built & deployed a **nationwide POS system to 240+ stores** across 70+ cities in Indonesia
+- 🏪 Built & deployed a **nationwide system to 240+ stores** across cities in Indonesia
 - 💰 Reduced software licensing costs by **~76%** through a flexible, web-based architecture
 - ⚡ Cut team development time by **30%** via a Centralized Multi-Frontend Backoffice
 - 🧪 Standardized **automated E2E testing with Playwright** — significantly reducing production bugs
