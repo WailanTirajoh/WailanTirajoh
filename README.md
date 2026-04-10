@@ -2,7 +2,7 @@
 
 # Wailan Thom Tirajoh
 
-**Engineering Leader · Technical Lead · Open Source Contributor**
+**Software Engineer · Open Source Contributor**
 
 *Building software systems that scale — and engineering teams that last.*
 
