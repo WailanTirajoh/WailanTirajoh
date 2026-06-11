@@ -2,7 +2,7 @@
 
 # Wailan Thom Tirajoh
 
-**Software Engineer · Open Source Contributor**
+**Software Engineer**
 
 *Building software systems that scale — and engineering teams that last.*
 
